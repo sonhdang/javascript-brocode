@@ -13,5 +13,5 @@ function output(func){
     func()
 }
 
-// behaves diffrently depending on which function is passed in
+// behaves diffrently depending on which function is pa ssed in
 output(greeting2)
